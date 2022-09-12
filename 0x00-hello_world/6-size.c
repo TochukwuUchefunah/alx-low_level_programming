@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry point
  *
  * prints the size of various types on the computer it is compiled and run on
